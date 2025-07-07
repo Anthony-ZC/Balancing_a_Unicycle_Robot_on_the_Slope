@@ -37,7 +37,8 @@ Run the corresponding MATLAB files to get the controllers and see the results of
 
 ### Closed-loop Nonlinear behavior
 After runing a certain MATLAB file for initializig linearized model and a certain MATLAB file for controller. Open the [Simulink file](unicycle_nonlinear_Cl.slx) and run it to see the closed-loop nonlinear model behavior.
-**Simulink Realization**
+
+**Simulink Realization:**
 ![Simulink System](./Figure_Simulink.png)
 > [!Note]
 > See section 4.4 of the report for more information about Simulink module functionality.
