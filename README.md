@@ -4,7 +4,7 @@ It is a MATLAB/Simulink implementation for [**Columbi EE6602 Modern Control Theo
 
 ## Project Overview
 
-[!model figure](./Figure_Model.png)
+![model figure](./Figure_Model.png)
 
 This project aims to stablize a Unicycle Robot on a non-flat condtion (slope), which is different from current research and also a harder problem.
 ### System Modeling
@@ -38,9 +38,9 @@ Run the corresponding MATLAB files to get the controllers and see the results of
 ### Closed-loop Nonlinear behavior
 After runing a certain MATLAB file for initializig linearized model and a certain MATLAB file for controller. Open the [Simulink file](unicycle_nonlinear_Cl.slx) and run it to see the closed-loop nonlinear model behavior.
 **Simulink Realization**
-[!Simulink System](./Figure_Simulink.png)
+![Simulink System](./Figure_Simulink.png)
 > [!Note]
 > See section 4.4 of the report for more information about Simulink module functionality.
 > See section 6 of the report for balancing the unicycle robot on the Time-Variant Slope.
 **Balacning on a Time-Variant Slope**
-[!Time-Variant Slope](./Figure_varing_slope_Hinf.png)
+![Time-Variant Slope](./Figure_varing_slope_Hinf.png)
