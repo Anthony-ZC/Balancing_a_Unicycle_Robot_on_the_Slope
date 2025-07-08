@@ -44,5 +44,6 @@ After runing a certain MATLAB file for initializig linearized model and a certai
 > [!Note]
 > See section 4.4 of the report for more information about Simulink module functionality.
 > See section 6 of the report for balancing the unicycle robot on the Time-Variant Slope.
+
 **Balacning on a Time-Variant Slope**
 ![Time-Variant Slope](./Figure_varing_slope_Hinf.png)
