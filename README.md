@@ -1,6 +1,7 @@
 # Balancing a Unicycle Robot on the Slope
 It is a MATLAB/Simulink implementation for [**Columbia EE6602 Modern Control Theory (Spring 2025)**](https://www.columbia.edu/~ja3451/courses/e6602.html) final project done by ***Zewen (Anthony) Chen***. A detailed report is also inclued in this repository.
 
+**$${\color{red}This\enspace project\enspace got\enspace full\enspace credit\enspace in\enspace the\enspace course.}$$**
 
 ## Project Overview
 
